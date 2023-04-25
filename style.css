@@ -82,10 +82,7 @@ body {
   box-shadow: 5px 5px 20px 0px #000000a6;
 }
 .grene1 {
-  color: #FEFAE0; 
-  font-size: x-large;
-  font-weight: lighter;
-  font-family: Lucida Sans Unicode, Times New Roman, Sans Serif;
+
   border: 1px solid #DDA15E;
   border-radius: 20px;
   padding: 15px;
@@ -94,6 +91,13 @@ body {
   flex-direction: column;
   align-items: flex-end;
   box-shadow: 5px 5px 20px 0px #000000a6;
+}
+.grene1 a{
+  color: #FEFAE0; 
+  font-size: x-large;
+  font-weight: lighter;
+  font-family: Lucida Sans Unicode, Times New Roman, Sans Serif;
+  text-decoration: none;
 }
 .greni {
   color: #FEFAE0; 
